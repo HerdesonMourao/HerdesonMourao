@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">  
+ <a href="https://www.linkedin.com/in/herdesonmourao/"><img alt="LinkedIn" src="https://img.shields.io/badge/HerdesonMourao-blue?style=appveyor&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:herdesondev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/herdesondev%40gmail.com-red?style=appveyor&logo=gmail&logoColor=white"></a>
+</p>
