@@ -1,4 +1,7 @@
-### Hi! I'm Herdeson Mourão 👋
+<div align="center">
+  <h2><b> Hi! I'm Herdeson Mourão 👋</b></h2>
+</div>
+
 <div>
   <a href="https://github.com/HerdesonMourao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerdesonMourao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
