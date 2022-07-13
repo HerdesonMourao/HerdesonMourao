@@ -3,7 +3,7 @@
 </div>
 
 🔥 FullStack Web Developer  
-🔭 I’m currently working at [Aikont](https://www.aikont.com.br/) as a tech leader
+<-- 🔭 I’m currently working at [Aikont](https://www.aikont.com.br/) as a tech leader -->
 
 <!-- 👨‍💻 All of my projects are available at [atcp dev](https://atcp.dev.br) -->
 
