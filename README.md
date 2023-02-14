@@ -2,7 +2,7 @@
   <h2><b> Hi! I'm Herdeson Mourão 👋</b></h2>
 </div>
 
-🔥 FullStack Web Developer  
+🔥 Fullstack developer with an emphasis on the backend
 <!-- 🔭 I’m currently working at [Aikont](https://www.aikont.com.br/) as a tech leader -->
 
 <!-- 👨‍💻 All of my projects are available at [atcp dev](https://atcp.dev.br) -->
